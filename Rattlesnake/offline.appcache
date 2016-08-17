@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1471465066
+#1471471293
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -22,6 +22,7 @@ images/projectile_magic_missile-sheet0.png
 images/projectile_bullet-sheet0.png
 images/pickup_multiplier-sheet0.png
 images/pickup_hp-sheet0.png
+images/particles.png
 media/health.m4a
 media/health.ogg
 media/hit.m4a
