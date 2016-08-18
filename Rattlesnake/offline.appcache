@@ -1,11 +1,14 @@
 ﻿CACHE MANIFEST
-#1471549785
+#1471558900
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
 images/tiled_bg.png
 images/tilemap_platform_jumpthru.png
 images/spawn_point-sheet0.png
+images/spr_hole-sheet0.png
+images/spr_invisible_barrier-sheet0.png
+images/spr_title_door-sheet0.png
 images/touch_down-sheet0.png
 images/button_pause-sheet0.png
 images/health_current-sheet0.png
@@ -18,16 +21,14 @@ images/yellow-sheet0.png
 images/character_player-sheet0.png
 images/spr_spaceman-sheet0.png
 images/red-sheet0.png
+images/purple-sheet0.png
 images/projectile_magic_missile-sheet0.png
 images/projectile_bullet-sheet0.png
 images/pickup_multiplier-sheet0.png
 images/pickup_hp-sheet0.png
 images/particle_magic_missle.png
-images/spr_title_door-sheet0.png
 images/particle_dust.png
-images/spr_invisible_barrier-sheet0.png
 images/particle_enemy_death.png
-images/spr_hole-sheet0.png
 media/health.m4a
 media/health.ogg
 media/hit.m4a
@@ -46,6 +47,5 @@ c2mp-net.js
 c2mp-peer.js
 c2mp.js
 waker.js
-pathfind.js
 NETWORK:
 *
