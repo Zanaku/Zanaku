@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1471609473
+#1471729867
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -19,10 +19,13 @@ images/bg_gameover-sheet0.png
 images/game_over_bg.png
 images/crosshair-sheet0.png
 images/yellow-sheet0.png
-images/character_player-sheet0.png
+images/player_controller-sheet0.png
 images/spr_spaceman-sheet0.png
 images/red-sheet0.png
 images/purple-sheet0.png
+images/spr_mage-sheet0.png
+images/spr_mage-sheet1.png
+images/spr_mage-sheet2.png
 images/projectile_magic_missile-sheet0.png
 images/projectile_bullet-sheet0.png
 images/pickup_multiplier-sheet0.png
