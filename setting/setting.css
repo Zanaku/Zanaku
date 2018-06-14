@@ -1,0 +1,25 @@
+body {
+	padding-top: 70px;
+	position: relative;
+	background-image: url("bg.jpg");
+}
+
+h1,h2,h3,h4 {
+	margin-top: .2em;
+    margin-bottom: .2em;
+    font-family: MrJeeves;
+    font-weight: 800;
+    color: #58180D;
+}
+
+.phb {
+	
+}
+
+h2 {
+	border-bottom: 2px solid #c9ad6a;
+}
+
+.jumbotron {
+	background-color: #faf7ea;
+}
